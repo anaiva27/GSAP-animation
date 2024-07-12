@@ -1,0 +1,69 @@
+.hero {
+  opacity: 0;
+  transform: translateY(50px);
+}
+.header {
+  opacity: 0;
+  /* transform: translateY(10px); */
+}
+.logo1 {
+  opacity: 0;
+  transform: translateY(-40px);
+}
+.phone1 {
+  position: relative;
+  z-index: 3;
+  scale: 1.2;
+  transform: translateX(60px);
+  opacity: 0;
+}
+.phone2 {
+  position: relative;
+  z-index: 4;
+  scale: 1.4;
+  opacity: 0;
+}
+.phone3 {
+  position: relative;
+  z-index: 3;
+  scale: 1.1;
+  transform: translateX(-60px);
+  opacity: 0;
+}
+.phoneS {
+  /* opacity: 0; */
+  position: relative;
+  z-index: 3;
+  scale: 0.95;
+}
+.elipse {
+  /* opacity: 0; */
+}
+.phoneClip1 {
+  opacity: 0;
+  position: relative;
+  z-index: 5;
+  transform: translateY(140px);
+}
+.phoneClip2 {
+  opacity: 0;
+  position: relative;
+  z-index: 5;
+  transform: translateY(100px);
+}
+.bodyCTA {
+  opacity: 0;
+  transform: translateY(-20px);
+}
+.artist {
+  opacity: 0;
+  transform: translateY(-20px) translateX(-20px);
+}
+.thirdCTA {
+  opacity: 0;
+  transform: translateY(20px);
+}
+.tab {
+  opacity: 0;
+  transform: translateY(20px);
+}
