@@ -1,6 +1,7 @@
 {
   "name": "gsap-animation-set-tools",
   "version": "0.1.0",
+  "homepage": "https://anaiva27.github.io/gsap-animation/",
   "private": true,
   "dependencies": {
     "@gsap/react": "^2.1.1",
