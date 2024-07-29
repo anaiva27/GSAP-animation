@@ -7,7 +7,7 @@ export const Routes = () => {
   return (
     <Router basename="/GSAP-animation">
       <Route path="/test" element={<LayoutTest />} />
-      <Route path="/" element={<Layout />} />
+      <Route path="/GSAP-animation/" element={<Layout />} />
     </Router>
   );
 };
