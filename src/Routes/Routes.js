@@ -8,9 +8,10 @@ import { Routes as Router, Route, useNavigate } from "react-router-dom";
 
 export const Routes = () => {
   return (
-    <Router>
+    <Router basename="GSAP-animation">
       <Route path="/test" element={<LayoutTestCopy />} />
       <Route path="/ame" element={<AME />} />
+      <Route path="/test" element={<LayoutTest />} />
       <Route path="/GSAP-animation/test" element={<LayoutTest />} />
       <Route path="/GSAP-animation/" element={<Layout />} />
       <Route path="/audi/" element={<Audi />} />
