@@ -4,7 +4,7 @@ import { Layout } from "Components/Root/Layout";
 import { LayoutTest } from "Components/Root/LayoutTest";
 import { LayoutTestCopy } from "Components/Root/LayoutTestCopy";
 import React from "react";
-import { HashRouter as Router, Route, useNavigate } from "react-router-dom";
+import { Routes as Router, Route, useNavigate } from "react-router-dom";
 
 export const Routes = () => {
   return (
