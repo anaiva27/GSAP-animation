@@ -1,14 +1,22 @@
 {
   "files": {
     "main.css": "/GSAP-animation/static/css/main.fb2c1be7.css",
-    "main.js": "/GSAP-animation/static/js/main.79289b20.js",
+    "main.js": "/GSAP-animation/static/js/main.cfdbc678.js",
     "static/js/453.7bcf1b75.chunk.js": "/GSAP-animation/static/js/453.7bcf1b75.chunk.js",
+    "static/media/artist3.png": "/GSAP-animation/static/media/artist3.0ffa9ea80457586e4a3d.png",
     "static/media/BG.png": "/GSAP-animation/static/media/BG.c06183cf7518c4dd7ca7.png",
+    "static/media/car1.png": "/GSAP-animation/static/media/car1.ec1f856271cbb21075be.png",
+    "static/media/artist1.png": "/GSAP-animation/static/media/artist1.589b1dc348ad01a1c273.png",
+    "static/media/artist5.png": "/GSAP-animation/static/media/artist5.737461ef9a4df8c4ec1f.png",
+    "static/media/car2.png": "/GSAP-animation/static/media/car2.b08ad87360f63e1471b2.png",
+    "static/media/artist4.png": "/GSAP-animation/static/media/artist4.9c70c05efb9bd465deb9.png",
+    "static/media/artist2.png": "/GSAP-animation/static/media/artist2.e0ed250d3a5ba6e12494.png",
     "static/media/Blob1.png": "/GSAP-animation/static/media/Blob1.3672e49682ae21cad517.png",
     "static/media/Group6646.png": "/GSAP-animation/static/media/Group6646.f2e5073b886930296244.png",
     "static/media/Elipse2.png": "/GSAP-animation/static/media/Elipse2.9ce3138b1aaeae49c608.png",
     "static/media/Ellipse.png": "/GSAP-animation/static/media/Ellipse.64f8aa260cf73a497b56.png",
     "static/media/Frame2.png": "/GSAP-animation/static/media/Frame2.bf8655ce28db4d8cc142.png",
+    "static/media/logoMax.png": "/GSAP-animation/static/media/logoMax.af309c99b5c56815ca26.png",
     "static/media/Frame4.png": "/GSAP-animation/static/media/Frame4.ea907b0c5dc131702b7f.png",
     "static/media/PhoneF.png": "/GSAP-animation/static/media/PhoneF.932f3d9e876322370492.png",
     "static/media/Frame5.png": "/GSAP-animation/static/media/Frame5.cd1136cfebe9ffff28bb.png",
@@ -19,13 +27,16 @@
     "static/media/phone3.png": "/GSAP-animation/static/media/phone3.b06fba6e439f7d26d662.png",
     "static/media/Blurb11.png": "/GSAP-animation/static/media/Blurb11.d3093b1ef26221a985fb.png",
     "static/media/phone1.png": "/GSAP-animation/static/media/phone1.634af994659959d3c72c.png",
+    "static/media/logoAudi.jpeg": "/GSAP-animation/static/media/logoAudi.4de93bfda727f55a1781.jpeg",
+    "static/media/detailsImg.png": "/GSAP-animation/static/media/detailsImg.44e2c00f35786a775a70.png",
+    "static/media/Logo.png": "/GSAP-animation/static/media/Logo.970a282c44f56519a37a.png",
     "index.html": "/GSAP-animation/index.html",
     "main.fb2c1be7.css.map": "/GSAP-animation/static/css/main.fb2c1be7.css.map",
-    "main.79289b20.js.map": "/GSAP-animation/static/js/main.79289b20.js.map",
+    "main.cfdbc678.js.map": "/GSAP-animation/static/js/main.cfdbc678.js.map",
     "453.7bcf1b75.chunk.js.map": "/GSAP-animation/static/js/453.7bcf1b75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb2c1be7.css",
-    "static/js/main.79289b20.js"
+    "static/js/main.cfdbc678.js"
   ]
 }
