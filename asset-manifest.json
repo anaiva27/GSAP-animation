@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GSAP-animation/static/css/main.fb2c1be7.css",
-    "main.js": "/GSAP-animation/static/js/main.cfdbc678.js",
+    "main.js": "/GSAP-animation/static/js/main.109a7bdf.js",
     "static/js/453.7bcf1b75.chunk.js": "/GSAP-animation/static/js/453.7bcf1b75.chunk.js",
     "static/media/artist3.png": "/GSAP-animation/static/media/artist3.0ffa9ea80457586e4a3d.png",
     "static/media/BG.png": "/GSAP-animation/static/media/BG.c06183cf7518c4dd7ca7.png",
@@ -32,11 +32,11 @@
     "static/media/Logo.png": "/GSAP-animation/static/media/Logo.970a282c44f56519a37a.png",
     "index.html": "/GSAP-animation/index.html",
     "main.fb2c1be7.css.map": "/GSAP-animation/static/css/main.fb2c1be7.css.map",
-    "main.cfdbc678.js.map": "/GSAP-animation/static/js/main.cfdbc678.js.map",
+    "main.109a7bdf.js.map": "/GSAP-animation/static/js/main.109a7bdf.js.map",
     "453.7bcf1b75.chunk.js.map": "/GSAP-animation/static/js/453.7bcf1b75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb2c1be7.css",
-    "static/js/main.cfdbc678.js"
+    "static/js/main.109a7bdf.js"
   ]
 }
