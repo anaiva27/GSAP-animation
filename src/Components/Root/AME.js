@@ -210,23 +210,16 @@ const BrandContent = styled.div`
 `;
 const ArtistListContent = styled.div`
   display: flex;
-  /* width: 100%; */
   flex-direction: column;
   gap: 15px;
   padding: 140px 10vw 50px 0;
-  /* margin-right: auto; */
-  /* padding-right: 10vw; */
-  /* max-width: 1200px; */
-  /* flex: 2; */
   z-index: 2;
   max-height: 100vh;
   overflow-y: auto;
   img {
     width: 100%;
-    //  max-width: 350px;
   }
   & > div {
-    /* max-width: 1000px; */
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
@@ -241,8 +234,6 @@ const ArtistListContent = styled.div`
     width: 0px;
     height: 0px;
     opacity: 0;
-    /* position: absolute;
-    right: 0; */
   }
 `;
 const BrandDetails = styled.div`
